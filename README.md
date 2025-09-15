@@ -82,8 +82,6 @@ Highlights:
 
 🔍 Ethical Considerations – Data bias, privacy, transparency & regulation
 
-📄 **Read the full generated blog:** [news_blog_post.txt](./news_blog_post.txt)
-
 
 ## 📸 Output Screenshots
 <img width="1513" height="891" alt="image" src="https://github.com/user-attachments/assets/e4df2bc5-5f1d-4d4b-b5b9-b17301558d8a" /> <img width="1392" height="892" alt="image" src="https://github.com/user-attachments/assets/becc3fd5-f6fc-466b-9dab-acc8dcc7532e" />
