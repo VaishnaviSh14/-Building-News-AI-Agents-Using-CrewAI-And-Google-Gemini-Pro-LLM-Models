@@ -1,0 +1,2 @@
+# -Building-News-AI-Agents-Using-CrewAI-And-Google-Gemini-Pro-LLM-Models
+This project builds an AI-powered News Research &amp; Writing System using CrewAI and Google Gemini Pro (1.5 Flash) LLM models. It features two autonomous agents – a Senior Researcher and a Writer – who collaborate to research trending topics, analyze insights, and generate news blog posts. The system uses Serper API for real-time web search.
